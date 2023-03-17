@@ -90,11 +90,11 @@ katex:
 # --------------------------------------
 
 # Favicon（網站圖標）
-favicon: /img/favicon.png
+favicon: https://sat02pap002files.storage.live.com/y4m3q98QqZbi9kQ1M3imcsoXZNn4IwF0MowyPAPq8M_BT7GTJH3yst3uJ2YR7rvihInOxDpQBYECtoXQb2JcK5YYLME6c-FyXq_LTofXd8z3MUdkYVUoKe936M8Ao6Qbtez1REUGF53uvUalmjQcAQ7sJypeHKvb8D5u_F8cpTcE2vvuKPad4k2XxyhrmQAtau7?width=1292&height=1292&cropmode=none # /img/favicon.png
 
 # Avatar (頭像)
 avatar:
-  img: https://i.loli.net/2021/02/24/5O1day2nriDzjSu.png
+  img: https://sat02pap002files.storage.live.com/y4m3q98QqZbi9kQ1M3imcsoXZNn4IwF0MowyPAPq8M_BT7GTJH3yst3uJ2YR7rvihInOxDpQBYECtoXQb2JcK5YYLME6c-FyXq_LTofXd8z3MUdkYVUoKe936M8Ao6Qbtez1REUGF53uvUalmjQcAQ7sJypeHKvb8D5u_F8cpTcE2vvuKPad4k2XxyhrmQAtau7?width=1292&height=1292&cropmode=none
   effect: false
 
 # Disable all banner image
@@ -104,7 +104,7 @@ disable_top_img: false
 index_img: https://sat02pap002files.storage.live.com/y4miKzG1fUM9eBHmZ3br1L9ereQKJfJRVoSoLTe2YmCuKGjbDtKn4KWWat75TG5qK-w-yCE6_mTzUb_wZ_s8cw6gngWHMBGv95wvuhD0dZX2N0JBZcdmVXC4FRc7-pdYOcR_wH9x6OP_5OMxc-b1VYUXH9rarZyZkBRtlAaY8aOuLgqfDaBNE49A9ij_P5VSooj?width=5655&height=3181&cropmode=none
 
 # If the banner of page not setting, it will show the top_img
-default_top_img:
+default_top_img: 
 
 # The banner image of archive page
 archive_img:
@@ -152,7 +152,7 @@ error_404:
 
 post_meta:
   page: # Home Page
-    date_type: created # created or updated or both 主頁文章日期是創建日或者更新日或都顯示
+    date_type: updated # created or updated or both 主頁文章日期是創建日或者更新日或都顯示
     date_format: date # date/relative 顯示日期還是相對日期
     categories: true # true or false 主頁是否顯示分類
     tags: false # true or false 主頁是否顯示標籤
@@ -674,7 +674,7 @@ aside:
       link: https://github.com/xxxxxx
   card_announcement:
     enable: true
-    content: This is my Blog
+    content: Go watch onimai
   card_recent_post:
     enable: true
     limit: 5 # if set 0 will show all
